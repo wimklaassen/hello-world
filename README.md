@@ -1,2 +1,3 @@
 # hello-world
-My first attempt using GitHub
+
+Hi, I a music lover (that is, Renaissance and Baroque, especially vocal works) and quite comfortable with programming. At the moment, I looking into Hervé Bitteurs Audiveris project (music scanning), which had been forked as Libreveris on GitHub. That a great piece of work, chapeau! I hope I'll be able to contribute to this project.
